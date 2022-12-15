@@ -1,0 +1,14 @@
+======= IchiBot - Main features =======
+
+1. Translation mode
+    usage    :  /ts /<to_language> <text>
+    example:  /ts /ko hello mom!
+    output   :  엄마 안녕하세요!
+
+2. Wikipedia search
+    usage   :  /wk /<to_language> <word>
+    example:  /wk /en samgyetang
+    output  :  Samgye-tang (삼계탕; 蔘鷄湯) or ginseng ..
+
+Others
+* list of language: /ts /list
