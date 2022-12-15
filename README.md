@@ -6,7 +6,7 @@ You can add this bot, with link:
 
 Code is written in **Python** with several library from google and wikipedia.
 
-## ======= IchiBot - Main features =======
+## Main features
 
 1. Translation mode
 `    usage    :  /ts /<to_language> <text>`
